@@ -16,7 +16,7 @@ public class agec {
             System.out.println("So you are studying at University");
         }
         else if(uage > 22 && uage < 66){
-            System.out.println("SO you have a job");
+            System.out.println("So you have a job");
         }
         else{
             System.out.println("So that means you are retired");
